@@ -21,7 +21,7 @@ const palavras = [
         categoria: "FRUTA"
     },
     palavra005 = {
-        nome: "JAMELÃO",
+        nome: "JAMELAO",
         categoria: "FRUTA"
     },
     palavra006 = {
